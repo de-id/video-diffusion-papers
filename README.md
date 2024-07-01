@@ -3,9 +3,9 @@ This seminar will focus on the latest developments in the field of diffusion mod
 
 Resources:
 <br>
-- [intuitive blog](https://iclr-blogposts.github.io/2024/blog/diffusion-theory-from-scratch/)
-- [more in-depth blog on many subjects - very recommanded](https://sander.ai/)
-- [long tutorail on diffusion models](https://arxiv.org/pdf/2403.18103)
+- [Diffusion Models Blogpost (more intuitive approach)](https://iclr-blogposts.github.io/2024/blog/diffusion-theory-from-scratch/)
+- [Blog covering many subjects in Diffusion models - highly recommended](https://sander.ai/)
+- [Tutorail on diffusion models (in-depth and detailed)](https://arxiv.org/pdf/2403.18103)
 <br>
 <br>
 
@@ -17,7 +17,7 @@ Resources:
 |Diffusion Transformer|[DiT](https://arxiv.org/abs/2212.09748)|2022| <details><summary>read why</summary>Replacing the Unet base of the diffusion model with Transformer base</details> |  [name](link) |[zoom](link)(password)|[slides](link) |
 |AnimateDiff|[AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning](https://arxiv.org/abs/2307.04725)|ICLR'24 spotlight| <details><summary>read why</summary>Introducing the Idea of converting of-the shelf text-to-image diffusion model to text-to-video diffusion model</details> |  [name](link) |[zoom](link)(password)|[slides](link) |
 |Animate Anyone|[Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation](https://arxiv.org/pdf/2311.17117)|2024| <details><summary>read why</summary>Video diffusion for avatar animation, introducing ReferenceNet for identity preservation</details> |  [name](link) |[zoom](link)(password)|[slides](link) |
-|Guest Speaker (Lightreicks)|TBD|2022| <details><summary>read why</summary>TBD</details> |  [name](link) |[zoom](link)(password)|[slides](link) |
+|Guest Speaker (Lightreicks)|TBD|| <details><summary>read why</summary>TBD</details> |  [name](link) |[zoom](link)(password)|[slides](link) |
 |EMO: Emote Portrait Alive|[EMO](https://arxiv.org/abs/2402.17485)|2024| <details><summary>read why</summary>Face Animation using video diffusion models, using one image and audio as inputs</details> |  [name](link) |[zoom](link)(password)|[slides](link) |
 |Gen1 (Runway) |[Gen1](https://arxiv.org/abs/2302.03011), [gen2 blog](https://research.runwayml.com/gen2)|2023| <details><summary>read why</summary>Gen 1, 2, and 3 models are among the known video diffusion models</details> |  [name](link) |[zoom](link)(password)|[slides](link) |
 |Advanced Topics in Distillation|[Progressive Distillation](https://arxiv.org/abs/2202.00512)<br>+<br>[Consistancy Models](https://arxiv.org/abs/2303.01469)|2022, 2023| <details><summary>read why</summary>two approaches for lowering the number of sampling steps</details> |  [name](link) |[zoom](link)(password)|[slides](link) |

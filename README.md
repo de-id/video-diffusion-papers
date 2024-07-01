@@ -3,7 +3,7 @@ This seminar will focus on the latest developments in the field of diffusion mod
 
 Resources:
 <br>
-- [Diffusion Models Blogpost (more intuitive approach)](https://iclr-blogposts.github.io/2024/blog/diffusion-theory-from-scratch/)
+- [Diffusion models blogpost (more intuitive approach)](https://iclr-blogposts.github.io/2024/blog/diffusion-theory-from-scratch/)
 - [Blog covering many subjects in Diffusion models - highly recommended](https://sander.ai/)
 - [Tutorail on diffusion models (in-depth and detailed)](https://arxiv.org/pdf/2403.18103)
 <br>

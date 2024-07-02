@@ -11,7 +11,7 @@ Resources:
 
 | Title | Paper / Resource | Year | Why is it interesting? | Asignee | Recording | Slides 
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Introduction||| <details><summary>read why</summary>Review of key concepts from our previous seminar, followed by a brief overview the new seminar</details> |  [name](link) |[zoom](link)(password)|[slides](link) |
+|Introduction||| <details><summary>read why</summary>Review of key concepts from our previous seminar, followed by a brief overview the new seminar</details> |  Shira Bar On |[zoom](link)(password)|[slides](link) |
 |Video Diffusion Model in Latent Space|[Video Probabilistic Diffusion Models in Projected Latent Space](https://arxiv.org/abs/2302.07685)<br>+<br>[Align Your Latents](https://arxiv.org/abs/2304.08818)|2023| <details><summary>read why</summary>Example of two different approaches for Video Latent Diffusion Models</details> |  [name](link) |[zoom](link)(password)|[slides](link) |
 |Denoising Diffusion Implicit Models (DDIM) and Distillation|[DDIM](https://arxiv.org/abs/2010.02502)<br>+<br>[Knowledge Distillation in Iterative Generative Models for Improved Sampling Speed](https://arxiv.org/abs/2101.02388)|2020, 2021| <details><summary>read why</summary>DDIM: paper introducing deterministic sampling, distillation paper building on this concept</details> |  [name](link) |[zoom](link)(password)|[slides](link) |
 |Diffusion Transformer|[DiT](https://arxiv.org/abs/2212.09748)|2022| <details><summary>read why</summary>Replacing the Unet base of the diffusion model with Transformer base, which improves results and the condition control</details> |  [name](link) |[zoom](link)(password)|[slides](link) |

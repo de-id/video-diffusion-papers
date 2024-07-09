@@ -1,6 +1,8 @@
 # video-diffusion-papers
 This seminar will focus on the latest developments in the field of diffusion models, particularly video diffusion models. Topics will include aspects such as temporal and identity consistency, efficiency, and applications specifically in the realm of human avatars.
 
+[Seminar Template](https://docs.google.com/presentation/d/1ZuFepQjEWgJRPAHN6Ev0tEGTCUb1k2e6qBYnSDnmzDI/edit?usp=sharing)
+
 Resources:
 <br>
 - [Diffusion models blogpost (more intuitive approach)](https://iclr-blogposts.github.io/2024/blog/diffusion-theory-from-scratch/)
